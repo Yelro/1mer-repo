@@ -4,7 +4,7 @@
 1. Sistema que registra cambios en un conjunto de archivos
 2. Registra un historial de cambios
 * Facilita la implementación de CI/CD
-
+#### PULL para halar
 ## *Introducción* 
 `Git` es un sistema de control de versiones, creado en 2005
 ### Creación de repositorio local
