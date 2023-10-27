@@ -16,6 +16,6 @@ C:\Maestria\1mer-repo>git commit -m "1mer commit"
 ## *Trabajando en Equipo con GIT*
 Colaboración en un repositorio: `clonar`, `forkear`, `colaboradores`
 
-[Ejemplo de nomenclatura](https://github.com/fabricioflores/controlador-versiones-git "GitHub docente")
+[Link ejemplo de nomenclatura](https://github.com/fabricioflores/controlador-versiones-git "GitHub docente")
 
-![Git Commands](https://res.cloudinary.com/practicaldev/image/fetch/s--AS0ya8UC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/rixan4h4z8y94eq89som.png "Git")
+![](https://i.stack.imgur.com/ZuBos.png)
